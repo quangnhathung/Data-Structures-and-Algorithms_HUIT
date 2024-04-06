@@ -1,0 +1,8 @@
+0101001657,Giao duc quoc phong-an ninh 1,3
+0101002298,Kinh te chinh tri Mac_lenin,2
+0101007641,Xac xuat thong ke,2
+0101100651,Triet hoc Mac-Lenin,3
+0101100984,Dai so tuyen tinh,2
+0101101922,Ky nang ung dung cong nghe thong tin,3
+0101101923,Nguyen ly ngon ngu lap trinh,2
+0101101924,Thuc hanh nguyen ly ngon ngu lap trinh,2

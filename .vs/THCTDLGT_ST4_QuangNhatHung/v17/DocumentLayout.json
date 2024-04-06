@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList02,.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|solutionrelative:Buoi01_SingleLinkList\\SingleLinkList02,.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|solutionrelative:Buoi01_SingleLinkList\\SingleLinkList01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SinglelinkList01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|solutionrelative:Buoi02_SingleLinkList\\SinglelinkList01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|solutionrelative:Buoi02_SingleLinkList\\SingleLinkList07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|solutionrelative:Buoi02_SingleLinkList\\SingleLinkList06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|solutionrelative:Buoi02_SingleLinkList\\SingleLinkList05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|solutionrelative:Buoi02_SingleLinkList\\SingleLinkList04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|solutionrelative:Buoi02_SingleLinkList\\SingleLinkList03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995E0CF4-98E3-455E-B204-73E1F84ECBFC}|Buoi02_SingleLinkList\\Buoi02_SingleLinkList.vcxproj|solutionrelative:Buoi02_SingleLinkList\\SingleLinkList02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|solutionrelative:Buoi01_SingleLinkList\\SingleLinkList04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|solutionrelative:Buoi01_SingleLinkList\\SingleLinkList03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack08.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack08.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack08.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack08.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack08.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T12:40:47.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stack07.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack07.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack07.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack07.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack07.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T09:35:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stack06.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack06.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack06.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack06.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack06.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T02:19:07.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stack04.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack04.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack04.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack04.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T01:56:13.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stack05.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack05.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack05.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack05.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T01:41:01.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stack03.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack03.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack03.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack03.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack03.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T01:33:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stack02.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack02.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack02.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack02.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T01:09:39.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stack01.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack01.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack01.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi03_Stack_Queue\\Stack01.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Stack01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T00:54:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SingleLinkList07.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList07.cpp",
+              "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList07.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList07.cpp",
+              "RelativeToolTip": "Buoi02_SingleLinkList\\SingleLinkList07.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T13:50:30.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingleLinkList06.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList06.cpp",
+              "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList06.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList06.cpp",
+              "RelativeToolTip": "Buoi02_SingleLinkList\\SingleLinkList06.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T13:44:53.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SingleLinkList05.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList05.cpp",
+              "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList05.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList05.cpp",
+              "RelativeToolTip": "Buoi02_SingleLinkList\\SingleLinkList05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T11:02:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SingleLinkList04.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList04.cpp",
+              "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList04.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList04.cpp",
+              "RelativeToolTip": "Buoi02_SingleLinkList\\SingleLinkList04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T12:51:24.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SingleLinkList03.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList03.cpp",
+              "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList03.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList03.cpp",
+              "RelativeToolTip": "Buoi02_SingleLinkList\\SingleLinkList03.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T10:13:41.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SingleLinkList04.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList04.cpp",
+              "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList04.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList04.cpp",
+              "RelativeToolTip": "Buoi01_SingleLinkList\\SingleLinkList04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T16:23:11.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingleLinkList02,.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList02,.cpp",
+              "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList02,.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList02,.cpp",
+              "RelativeToolTip": "Buoi01_SingleLinkList\\SingleLinkList02,.cpp",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAswA8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T08:51:16.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SingleLinkList03.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList03.cpp",
+              "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList03.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList03.cpp",
+              "RelativeToolTip": "Buoi01_SingleLinkList\\SingleLinkList03.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T09:15:51.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SingleLinkList02.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList02.cpp",
+              "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList02.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SingleLinkList02.cpp",
+              "RelativeToolTip": "Buoi02_SingleLinkList\\SingleLinkList02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T08:45:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinglelinkList01.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SinglelinkList01.cpp",
+              "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SinglelinkList01.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi02_SingleLinkList\\SinglelinkList01.cpp",
+              "RelativeToolTip": "Buoi02_SingleLinkList\\SinglelinkList01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T04:39:26.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleLinkList01.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList01.cpp",
+              "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList01.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHungz\\Buoi01_SingleLinkList\\SingleLinkList01.cpp",
+              "RelativeToolTip": "Buoi01_SingleLinkList\\SingleLinkList01.cpp",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAwwFMBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T10:28:47.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
