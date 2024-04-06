@@ -65,7 +65,7 @@ void ShowStack(Stack sl) {
 }
 int main() {
 	int n;
-	cout << "Tinh gia thua cua so: "; cin >> n;
+	cout << "Tinh giai thua cua so: "; cin >> n;
 	int temp = n;
 	Stack st;
 	Init_Stack(st);

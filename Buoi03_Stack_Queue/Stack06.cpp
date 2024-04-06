@@ -130,14 +130,14 @@ string InfixtoPosdix(string s) {
 			Postfix += s[i];
 		}
 		else if (s[i] == ')' || s[i] == '}' || s[i] == ']') {
-			while (!IsEmpty(st) && (top(st) != '(' && top(st) && '{' && top(st) != '[')) {
+			while (!IsEmpty(st) && (top(st) != '(' && top(st)== '{' && top(st) != '[')) {
 				Postfix += top(st);
 				pop(st);
 			}
 			pop(st);
 		}
 		else if (IsOperator(s[i])) {//toans hangj
-			while (!IsEmpty(st) && (Uutien(top(st)) >= Uutien(s[i]) && !IsEmpty(st))) {
+			while (!IsEmpty(st) && (Uutien(top(st)) >= Uutien(s[i]))) {
 				Postfix += top(st);
 				pop(st);
 			}
