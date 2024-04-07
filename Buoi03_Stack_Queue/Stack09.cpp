@@ -5,7 +5,7 @@
 #include<cmath>
 #include<string>
 #include<cctype>
-#include<stack>
+#include<Stack>
 using namespace std;
 //Tao Cau truc
 struct StackNode {
@@ -25,7 +25,7 @@ bool IsEmpty(Stack sl) {
 	return false;
 }
 //Tao node
-StackNode* CreaateSNode(char x) {
+StackNode* CreaateStackNode(char x) {
 	StackNode* p = new StackNode;
 	p->Data = x;
 	p->Next = NULL;
@@ -71,7 +71,7 @@ int Checkstring(string s) {
 	for (size_t i = 0; i < s.size(); i++) {
 		if (IsEmpty(st) && (s[i] == ')' || s[i] == '}' || s[i] == ']')) return 0;
 		if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
-			push(st, CreaateSNode(s[i]));
+			push(st, CreaateStackNode(s[i]));
 		}
 		if (s[i] == ')' || s[i] == '}' || s[i] == ']') {
 			if (s[i] == ')') {
@@ -138,7 +138,7 @@ string InfixToPostfix(string s) {
 		}
 		//dau mo ngoac
 		else if (s[i] == '{' || s[i] == '(' || s[i] == '[') {
-			push(st, CreaateSNode(s[i]));
+			push(st, CreaateStackNode(s[i]));
 		}
 		//dau dong ngoac
 		else if (s[i] == '}' || s[i] == ']' || s[i] == ')') {
@@ -154,7 +154,7 @@ string InfixToPostfix(string s) {
 				Postfix += top(st);
 				pop(st);
 			}
-			push(st, CreaateSNode(s[i]));
+			push(st, CreaateStackNode(s[i]));
 		}
 	}
 	while (!IsEmpty(st)) {
@@ -187,9 +187,9 @@ float Pheptoan(char c, float a, float b) {
 	}
 }
 float SolvePostfix(string Postfix) {
-	//stack de luu ket qua
-	//Tao stack moi luu float lam roi
-	stack<float> ketqua;
+	//Stack de luu ket qua
+	//Tao Stack moi luu float lam roi
+	Stack<float> ketqua;
 	for (size_t i = 0; i < Postfix.size(); i++) {
 		if (isalnum(Postfix[i])) {
 

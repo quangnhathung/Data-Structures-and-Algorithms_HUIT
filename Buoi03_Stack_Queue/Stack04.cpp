@@ -24,7 +24,7 @@ bool IsEmpty(Stack sl) {
 	return false;
 }
 //Tao node
-StackNode* CreaateSNode(char x) {
+StackNode* CreaateStackNode(char x) {
 	StackNode* p = new StackNode;
 	p->Data = x;
 	p->Next = NULL;
@@ -71,7 +71,7 @@ int main() {
 	Stack st;
 	Init_Stack(st);
 	for (int i = 0; i < s.size(); i++) {
-		push(st, CreaateSNode(s[i]));
+		push(st, CreaateStackNode(s[i]));
 	}
 	while (!IsEmpty(st)) {
 		cout << top(st);

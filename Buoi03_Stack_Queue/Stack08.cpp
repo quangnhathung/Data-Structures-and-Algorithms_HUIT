@@ -26,7 +26,7 @@ bool IsEmpty(Stack sl) {
 	return false;
 }
 //Tao node
-StackNode* CreaateSNode(Doanxet x) {
+StackNode* CreaateStackNode(Doanxet x) {
 	StackNode* p = new StackNode;
 	p->Data = x;
 	p->Next = NULL;
@@ -100,13 +100,13 @@ void QuicksortWithoutRecursion(int a[], int l, int r) {
 		Doanxet x;
 		x.BatDau = l;
 		x.ketthuc = i - 1;
-		push(st, CreaateSNode(x));
+		push(st, CreaateStackNode(x));
 	}
 	if (i < r) {
 		Doanxet x;
 		x.BatDau = i;
 		x.ketthuc = r;
-		push(st, CreaateSNode(x));
+		push(st, CreaateStackNode(x));
 	}
 	while (!IsEmpty(st)) {
 		int i = Partition(a, l, r);
@@ -118,13 +118,13 @@ void QuicksortWithoutRecursion(int a[], int l, int r) {
 			Doanxet x;
 			x.BatDau = l;
 			x.ketthuc = i - 1;
-			push(st, CreaateSNode(x));
+			push(st, CreaateStackNode(x));
 		}
 		if (i < r) {
 			Doanxet x;
 			x.BatDau = i;
 			x.ketthuc = r;
-			push(st, CreaateSNode(x));
+			push(st, CreaateStackNode(x));
 		}
 	}
 

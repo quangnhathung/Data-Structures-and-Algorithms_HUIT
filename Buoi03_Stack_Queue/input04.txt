@@ -1,0 +1,7 @@
+TD03,Quat May,cai,123
+TP04,Thit ga dong lanh,phan,99
+TD02,Tu lanh,cai,81
+TD05,Xoong chong dinh,cai,51
+TP03,Kim chi,kg,21
+TD01,Bo ban ghe,bo,15
+TP01,Ca phe,hop,97

@@ -23,7 +23,7 @@ bool IsEmpty(Stack sl) {
 	return false;
 }
 //Tao node
-StackNode* CreaateSNode(int x) {
+StackNode* CreaateStackNode(int x) {
 	StackNode* p = new StackNode;
 	p->Data = x;
 	p->Next = NULL;
@@ -71,7 +71,7 @@ int main() {
 	Init_Stack(st);
 	while (1) {
 		if (temp - 1 == 0) break;
-		push(st, CreaateSNode(temp - 1));
+		push(st, CreaateStackNode(temp - 1));
 		temp--;
 
 	}

@@ -29,7 +29,7 @@ bool IsEmpty(Stack sl) {
 	return false;
 }
 //Tao node
-StackNode* CreaateSNode(Tower x) {
+StackNode* CreaateStackNode(Tower x) {
 	StackNode* p = new StackNode;
 	p->Data = x;
 	p->Next = NULL;
@@ -94,7 +94,7 @@ void TowerofHNWithoutRecursion(int n, char Nguon, char trunggian, char dich) {
 			x.BatDau = Nguon;
 			x.TrungGian = trunggian;
 			x.Dich = dich;
-			push(st, CreaateSNode(x));
+			push(st, CreaateStackNode(x));
 			n--;
 			swap(trunggian, dich);
 		}

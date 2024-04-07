@@ -24,7 +24,7 @@ bool IsEmpty(Stack sl) {
 	return false;
 }
 //Tao node
-StackNode* CreaateSNode(char x) {
+StackNode* CreaateStackNode(char x) {
 	StackNode* p = new StackNode;
 	p->Data = x;
 	p->Next = NULL;
@@ -71,7 +71,7 @@ int Checkstring(string s) {
 	for (int i = 0; i < s.size(); i++) {
 		if (IsEmpty(st) && (s[i] == ')' || s[i] == '}' || s[i] == ']')) return 0;
 		if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
-			push(st, CreaateSNode(s[i]));
+			push(st, CreaateStackNode(s[i]));
 		}
 		if (s[i] == ')' || s[i] == '}' || s[i] == ']') {
 			if (s[i] == ')') {
