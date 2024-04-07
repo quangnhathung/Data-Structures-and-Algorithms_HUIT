@@ -129,7 +129,7 @@ void Show(Queue qu) {
 	int cnt = 1;
 	QueueNode* p = qu.Head;
 	while (p != NULL) {
-		cout << setw(5) << left << cnt << setw(13) << p->Data.BHYT << setw(25) << left << p->Data.HoTen << setw(9) << p->Data.Namsinh << endl;
+		cout << setw(5) << left << cnt << setw(13) << p->Data.BHYT <<setw(13) << p->Data.CCCD <<setw(25) << left << p->Data.HoTen << setw(9) << p->Data.Namsinh << endl;
 		cnt++;
 		p = p->Next;
 	}
@@ -157,7 +157,7 @@ void Menu() {
 	cout << "1. Nhap danh sach Benh nhan" << endl;
 	cout << "2. Benh nhan moi dang ky mua ve." << endl;
 	cout << "3. Thong tinh benh nhan dau/cuoi danh sach " << endl;
-	cout << "4. Ban ve xe lua cho Benh nhan." << endl;
+	cout << "4. Kham cho Benh nhan tiep theo." << endl;
 	cout << "5. Thong tin Benh nhan moi dang ky." << endl;
 	cout << "6. Kham cho toan bo Benh nhan." << endl;
 	cout << "7. Danh sach Benh nhan!" << endl;

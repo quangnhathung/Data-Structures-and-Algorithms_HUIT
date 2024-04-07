@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Queue06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Queue05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Stack06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{729EB641-AFE2-4E68-89A5-0E969B0B77B4}|Buoi01_SingleLinkList\\Buoi01_SingleLinkList.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi01_SingleLinkList\\SingleLinkList02,.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -114,7 +114,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 171,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -132,7 +132,7 @@
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue07.cpp",
               "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue07.cpp",
               "RelativeToolTip": "Buoi03_Stack_Queue\\Queue07.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAYwFgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-07T13:17:17.092Z",
               "EditorCaption": ""
@@ -145,14 +145,14 @@
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue06.cpp",
               "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue06.cpp",
               "RelativeToolTip": "Buoi03_Stack_Queue\\Queue06.cpp",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAYwGsAAAARAAAA",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAlwKIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-07T13:09:46.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Queue05.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue05.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue05.cpp",
@@ -160,12 +160,11 @@
               "RelativeToolTip": "Buoi03_Stack_Queue\\Queue05.cpp",
               "ViewState": "AQIAAIEAAAAAAAAAAADwv24AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-07T10:56:13.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T10:56:13.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Queue04.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue04.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue04.cpp",
@@ -173,12 +172,11 @@
               "RelativeToolTip": "Buoi03_Stack_Queue\\Queue04.cpp",
               "ViewState": "AQIAABMBAAAAAAAAAAAAwBYBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-07T08:02:37.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T08:02:37.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Queue03.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue03.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue03.cpp",
@@ -186,12 +184,11 @@
               "RelativeToolTip": "Buoi03_Stack_Queue\\Queue03.cpp",
               "ViewState": "AQIAAHMAAAAAAAAAAAAAwH0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-07T05:42:07.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T05:42:07.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Queue02.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue02.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue02.cpp",
@@ -199,12 +196,11 @@
               "RelativeToolTip": "Buoi03_Stack_Queue\\Queue02.cpp",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAwE8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-07T05:30:35.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T05:30:35.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Queue01.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue01.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue01.cpp",
@@ -228,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Stack08.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack08.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack08.cpp",
@@ -252,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Stack06.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack06.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack06.cpp",
@@ -260,7 +256,8 @@
               "RelativeToolTip": "Buoi03_Stack_Queue\\Stack06.cpp",
               "ViewState": "AQIAAIoAAAAAAAAAAAAAAIcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-03T02:19:07.106Z"
+              "WhenOpened": "2024-04-03T02:19:07.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -276,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Stack05.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack05.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack05.cpp",
@@ -300,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Stack02.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack02.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack02.cpp",
@@ -312,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Stack01.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack01.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack01.cpp",
@@ -320,8 +317,7 @@
               "RelativeToolTip": "Buoi03_Stack_Queue\\Stack01.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-03T00:54:17.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T00:54:17.225Z"
             },
             {
               "$type": "Document",
@@ -361,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SingleLinkList04.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SingleLinkList04.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList04.cpp",
