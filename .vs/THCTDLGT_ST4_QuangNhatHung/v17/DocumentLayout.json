@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Queue07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Tree02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\Tree02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\CalculateTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\CalculateTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\CalculateTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\CalculateTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\asciinode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\asciinode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Tree01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\Tree01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Binarysearchtreewithint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\Binarysearchtreewithint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Queue06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\asciinode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6C6A88B-105B-480C-ACD0-468F2C0D5E93}|Buoi04_BinarySearchTree\\Buoi04_BinarySearchTree.vcxproj|solutionrelative:Buoi04_BinarySearchTree\\asciinode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|solutionrelative:Buoi03_Stack_Queue\\Queue07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D5AA72F-C3C6-4B2E-969A-E3AD2AC04B7C}|Buoi03_Stack_Queue\\Buoi03_Stack_Queue.vcxproj|D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -118,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,33 +166,162 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Queue07.cpp",
-              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue07.cpp",
-              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue07.cpp",
-              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue07.cpp",
-              "RelativeToolTip": "Buoi03_Stack_Queue\\Queue07.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAKAAAA",
+              "DocumentIndex": 5,
+              "Title": "ASCIInode.h",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\ASCIInode.h",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\ASCIInode.h",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\ASCIInode.h",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\ASCIInode.h",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-11T13:51:51.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "asciinode.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\asciinode.cpp",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\asciinode.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\asciinode.cpp",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\asciinode.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-07T13:17:17.092Z",
+              "WhenOpened": "2024-04-11T13:50:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculateTree.h",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\CalculateTree.h",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\CalculateTree.h",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\CalculateTree.h",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\CalculateTree.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-11T13:37:42.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CalculateTree.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\CalculateTree.cpp",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\CalculateTree.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\CalculateTree.cpp",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\CalculateTree.cpp",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAkwG4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T13:35:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Input.cpp",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\Input.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Input.cpp",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\Input.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T14:29:16.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input.h",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\input.h",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\input.h",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\input.h",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\input.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T14:28:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tree02.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Tree02.cpp",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\Tree02.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Tree02.cpp",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\Tree02.cpp",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAhwJQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T14:12:39.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tree01.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Tree01.cpp",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\Tree01.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Tree01.cpp",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\Tree01.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T02:25:54.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Binarysearchtreewithint.h",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Binarysearchtreewithint.h",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\Binarysearchtreewithint.h",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\Binarysearchtreewithint.h",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\Binarysearchtreewithint.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T01:58:32.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearchTree.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\BinarySearchTree.cpp",
+              "RelativeDocumentMoniker": "Buoi04_BinarySearchTree\\BinarySearchTree.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi04_BinarySearchTree\\BinarySearchTree.cpp",
+              "RelativeToolTip": "Buoi04_BinarySearchTree\\BinarySearchTree.cpp",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T01:45:59.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Queue07.cpp",
+              "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue07.cpp",
+              "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue07.cpp",
+              "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue07.cpp",
+              "RelativeToolTip": "Buoi03_Stack_Queue\\Queue07.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T13:17:17.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Queue06.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue06.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue06.cpp",
               "ToolTip": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue06.cpp",
               "RelativeToolTip": "Buoi03_Stack_Queue\\Queue06.cpp",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAlwKIAAAArAAAA",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAlwKQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-07T13:09:46.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Queue05.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue05.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue05.cpp",
@@ -164,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Queue04.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue04.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue04.cpp",
@@ -176,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Queue03.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue03.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue03.cpp",
@@ -188,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Queue02.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue02.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue02.cpp",
@@ -200,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Queue01.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Queue01.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Queue01.cpp",
@@ -212,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Stack09.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack09.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack09.cpp",
@@ -224,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Stack08.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack08.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack08.cpp",
@@ -236,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Stack07.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack07.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack07.cpp",
@@ -248,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Stack06.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack06.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack06.cpp",
@@ -256,12 +425,11 @@
               "RelativeToolTip": "Buoi03_Stack_Queue\\Stack06.cpp",
               "ViewState": "AQIAAIoAAAAAAAAAAAAAAIcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-03T02:19:07.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T02:19:07.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Stack04.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack04.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack04.cpp",
@@ -273,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Stack05.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack05.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack05.cpp",
@@ -285,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "Stack03.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack03.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack03.cpp",
@@ -297,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Stack02.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack02.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack02.cpp",
@@ -309,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Stack01.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi03_Stack_Queue\\Stack01.cpp",
               "RelativeDocumentMoniker": "Buoi03_Stack_Queue\\Stack01.cpp",
@@ -321,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "SingleLinkList07.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SingleLinkList07.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList07.cpp",
@@ -333,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "SingleLinkList06.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SingleLinkList06.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList06.cpp",
@@ -345,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "SingleLinkList05.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SingleLinkList05.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList05.cpp",
@@ -357,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "SingleLinkList04.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SingleLinkList04.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList04.cpp",
@@ -369,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "SingleLinkList03.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SingleLinkList03.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList03.cpp",
@@ -381,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "SingleLinkList04.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi01_SingleLinkList\\SingleLinkList04.cpp",
               "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList04.cpp",
@@ -393,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "SingleLinkList02,.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi01_SingleLinkList\\SingleLinkList02,.cpp",
               "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList02,.cpp",
@@ -405,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "SingleLinkList03.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi01_SingleLinkList\\SingleLinkList03.cpp",
               "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList03.cpp",
@@ -417,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "SingleLinkList02.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SingleLinkList02.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SingleLinkList02.cpp",
@@ -429,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "SinglelinkList01.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi02_SingleLinkList\\SinglelinkList01.cpp",
               "RelativeDocumentMoniker": "Buoi02_SingleLinkList\\SinglelinkList01.cpp",
@@ -441,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "SingleLinkList01.cpp",
               "DocumentMoniker": "D:\\vs\\CTDL\u0026GT\\THCTDLGT_ST4_QuangNhatHung\\Buoi01_SingleLinkList\\SingleLinkList01.cpp",
               "RelativeDocumentMoniker": "Buoi01_SingleLinkList\\SingleLinkList01.cpp",
