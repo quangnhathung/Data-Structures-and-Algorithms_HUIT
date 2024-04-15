@@ -1,2 +1,21 @@
-﻿  Tree02.cpp
+﻿  BinarySearchTree.cpp
+  BinarySearchTreeFrct.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\BinarySearchTreeFrct.cpp(19,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  BinarySearchTreeWithChar.cpp
+  CalculateTree.cpp
+  Fraction.cpp
+  Input.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\Input.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\Input.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tree06.cpp
+  asciinode.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\asciinode.cpp(191,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\asciinode.cpp(204,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\asciinode.cpp(315,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\asciinode.cpp(345,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\asciinode.cpp(375,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\BinarySearchTreeWithChar.cpp(199,1): warning C4715: 'FindTreeNodeChar': not all control paths return a value
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\BinarySearchTreeFrct.cpp(157,1): warning C4715: 'FindTreeNodeFrct': not all control paths return a value
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi04_BinarySearchTree\BinarySearchTree.cpp(124,1): warning C4715: 'FindTreeNode': not all control paths return a value
   Buoi04_BinarySearchTree.vcxproj -> D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Debug\Buoi04_BinarySearchTree.exe

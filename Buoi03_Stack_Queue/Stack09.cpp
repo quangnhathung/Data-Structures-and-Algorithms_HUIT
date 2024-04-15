@@ -5,7 +5,7 @@
 #include<cmath>
 #include<string>
 #include<cctype>
-#include<Stack>
+#include<stack>
 using namespace std;
 //Tao Cau truc
 struct StackNode {
@@ -189,7 +189,7 @@ float Pheptoan(char c, float a, float b) {
 float SolvePostfix(string Postfix) {
 	//Stack de luu ket qua
 	//Tao Stack moi luu float lam roi
-	Stack<float> ketqua;
+	stack<float> ketqua;
 	for (size_t i = 0; i < Postfix.size(); i++) {
 		if (isalnum(Postfix[i])) {
 

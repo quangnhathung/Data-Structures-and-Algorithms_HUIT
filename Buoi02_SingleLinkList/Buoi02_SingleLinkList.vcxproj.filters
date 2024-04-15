@@ -27,13 +27,13 @@
     <ClCompile Include="SingleLinkList04.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SingleLinkList05.cpp">
+    <ClCompile Include="SingleLinkList07.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SingleLinkList06.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SingleLinkList07.cpp">
+    <ClCompile Include="SingleLinkList05.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

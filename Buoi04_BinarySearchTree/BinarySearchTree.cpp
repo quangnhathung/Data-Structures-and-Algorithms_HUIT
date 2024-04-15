@@ -1,3 +1,4 @@
+//Github:https://github.com/quangnhathung/Data-Structures-and-Algorithms_HUIT
 #include "Binarysearchtreewithint.h"
 using namespace std;
 void Init_BinarySearchTree(BinarySearchTree& tr) {
@@ -94,8 +95,8 @@ void TraverseLRN(TreeNode* root) {
 }
 void TraverseRLN(TreeNode* root) {
 	if (root == NULL) return;
-	TraverseLNR(root->Right);
-	TraverseLNR(root->Left);
+	TraverseRLN(root->Right);
+	TraverseRLN(root->Left);
 	cout << root->data << " ";
 }
 void TraverseNLR(TreeNode* root) {

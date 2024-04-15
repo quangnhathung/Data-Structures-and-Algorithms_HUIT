@@ -129,17 +129,38 @@
   <ItemGroup>
     <ClCompile Include="asciinode.cpp" />
     <ClCompile Include="BinarySearchTree.cpp" />
+    <ClCompile Include="BinarySearchTreeWithChar.cpp" />
+    <ClCompile Include="BSTWithFraction.h" />
     <ClCompile Include="CalculateTree.cpp" />
+    <ClCompile Include="Fraction.cpp" />
     <ClCompile Include="Input.cpp" />
     <ClCompile Include="Tree01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Tree02.cpp" />
+    <ClCompile Include="Tree02.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Tree03.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BinarySearchTreeFrct.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Tree04.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Tree05.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Tree06.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ASCIInode.h" />
     <ClInclude Include="Binarysearchtreewithint.h" />
+    <ClInclude Include="BSTwithChar.h" />
     <ClInclude Include="CalculateTree.h" />
+    <ClInclude Include="Fraction.h" />
     <ClInclude Include="input.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
