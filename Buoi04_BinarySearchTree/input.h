@@ -1,5 +1,6 @@
 #pragma once
 #include "Binarysearchtreewithint.h"
+#include "BSTWithFraction.h"
 void InputfromKeyboard(TreeNode*& root);
 void InputFromArray(TreeNode*& root);
 void InputRandom(TreeNode*& root);
