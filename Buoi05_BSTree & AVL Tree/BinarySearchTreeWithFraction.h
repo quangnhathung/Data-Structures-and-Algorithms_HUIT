@@ -21,6 +21,7 @@ void Init_BinarySearchTreeFrct(BinarySearchTreeFrct& tr);
 bool IsEmptyFrct(BinarySearchTreeFrct tr);
 float FractionValue(Fraction x);
 void Add_TreeFrct(TreeNodeFrct*& root, TreeNodeFrct* p);
+TreeNodeFrct* FindNodeReplaceFrct(TreeNodeFrct* root);
 int Dlt_TreeNodeFrct(TreeNodeFrct*& root, Fraction x);
 void TraverseLNRFrct(TreeNodeFrct* root);
 void TraverseRNLFrct(TreeNodeFrct* root);

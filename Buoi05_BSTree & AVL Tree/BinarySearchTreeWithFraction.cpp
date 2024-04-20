@@ -31,6 +31,8 @@ void Add_TreeFrct(TreeNodeFrct*& root, TreeNodeFrct* p) {
 		Add_TreeFrct(root->Left, p);
 	}
 }
+
+
 //xoa 1 phan tu x
 TreeNodeFrct* FindNodeReplaceFrct(TreeNodeFrct* root) {
 	TreeNodeFrct* p = root->Left;
@@ -77,6 +79,8 @@ int Dlt_TreeNodeFrct(TreeNodeFrct*& root, Fraction x) {
 	}
 	return 0; //Khong tim thay phan tu x
 }
+
+
 //6 phep duyet cay
 void TraverseLNRFrct(TreeNodeFrct* root) {
 	if (root == NULL) return;

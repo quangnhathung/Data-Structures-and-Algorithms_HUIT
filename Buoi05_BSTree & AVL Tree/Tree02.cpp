@@ -379,6 +379,8 @@ int main() {
 				break;
 			}
 			}
+			End();
+			break;
 		}
 		case 8: {
 			print_ascii_tree(tr.Root);

@@ -282,6 +282,133 @@ int SumPerfectSquare(TreeNode* root) {
 	else return 0 + SumPerfectSquare(root->Left) + SumPerfectSquare(root->Right);
 }
 
+
+//liet ke so hoan thien
+void ListedPerfectNum(TreeNode* root) {
+	if (root == NULL) return;
+	ListedPerfectNum(root->Left);
+	if (CheckPerfectNum(root->data)) {
+		cout << root->data << " ";
+	}
+	ListedPerfectNum(root->Right);
+}
+//liet ke so chan
+void ListedEvennum(TreeNode* root) {
+	if (root == NULL) return;
+	ListedEvennum(root->Left);
+	if (root->data % 2 == 0) {
+		cout << root->data << " ";
+	}
+	ListedEvennum(root->Right);
+}
+//dem nut la chan
+int CountLeafeven(TreeNode* root) {
+	if (root == NULL) return 0;
+	if (root->data % 2 == 0 && root->Left == NULL && root->Right == NULL) {
+		return 1 + CountLeafeven(root->Left) + CountLeafeven(root->Right);
+	}
+	else return 0 + CountLeafeven(root->Left) + CountLeafeven(root->Right);
+}
+//dem nut co 1 con va la so nguyen to
+int CountNodeHasOneChildPrime(TreeNode* root) {
+	if (root == NULL) {
+		return 0;
+	}
+	if (root->Left == NULL && root->Right != NULL && CheckPrimeNum(root->Right->data)) {
+		return 1 + CountNodeHasOneChildPrime(root->Left) + CountNodeHasOneChildPrime(root->Right);
+	}
+	else if (root->Right == NULL && root->Left != NULL && CheckPrimeNum(root->Left->data)) {
+		return 1 + CountNodeHasOneChildPrime(root->Left) + CountNodeHasOneChildPrime(root->Right);
+	}
+	else {
+		return 0 + CountNodeHasOneChildPrime(root->Left) + CountNodeHasOneChildPrime(root->Right);
+	}
+}
+//dem nut co 2 con la so chinh phuonh
+int CountNodeHasTwoChildPerfectSquare(TreeNode* root) {
+	if (root == NULL) {
+		return 0;
+	}
+	if (root->Left != NULL && root->Right != NULL && CheckPerfectSquare(root->Left->data) && CheckPerfectSquare(root->Right->data)) {
+		return 1 + CountNodeHasTwoChildPerfectSquare(root->Left) + CountNodeHasTwoChildPerfectSquare(root->Right);
+	}
+	else {
+		return 0 + CountNodeHasTwoChildPerfectSquare(root->Left) + CountNodeHasTwoChildPerfectSquare(root->Right);
+	}
+}
+
+//tong so le
+int SumOddNum(TreeNode* root) {
+	if (root == NULL) return 0;
+	if (root->data % 2 != 0) {
+		return root->data + SumOddNum(root->Left) + SumOddNum(root->Right);
+	}
+	else return 0 + SumOddNum(root->Left) + SumOddNum(root->Right);
+}
+//tong nut gia tri le khong phair la la
+int SumOddNumNotLeaf(TreeNode* root) {
+	if (root == NULL) return 0;
+	if (root->data % 2 != 0 && (root->Left != NULL || root->Right != NULL)) {
+		return root->data + SumOddNumNotLeaf(root->Left) + SumOddNumNotLeaf(root->Right);
+	}
+	else return 0 + SumOddNumNotLeaf(root->Left) + SumOddNumNotLeaf(root->Right);
+}
+//tong nut co 1 con va la so nguyen to
+int SumNodeHasOneChildPrime(TreeNode* root) {
+	if (root == NULL) {
+		return 0;
+	}
+	if (root->Left == NULL && root->Right != NULL && CheckPrimeNum(root->Right->data)) {
+		return root->data + SumNodeHasOneChildPrime(root->Left) + SumNodeHasOneChildPrime(root->Right);
+	}
+	else if (root->Right == NULL && root->Left != NULL && CheckPrimeNum(root->Left->data)) {
+		return root->data + SumNodeHasOneChildPrime(root->Left) + SumNodeHasOneChildPrime(root->Right);
+	}
+	else {
+		return 0 + SumNodeHasOneChildPrime(root->Left) + SumNodeHasOneChildPrime(root->Right);
+	}
+}
+//tong nut co 2 con la so chinh phuonh
+int SumNodeHasTwoChildPerfectSquare(TreeNode* root) {
+	if (root == NULL) {
+		return 0;
+	}
+	if (root->Left != NULL && root->Right != NULL && CheckPerfectSquare(root->Left->data) && CheckPerfectSquare(root->Right->data)) {
+		return root->data + SumNodeHasTwoChildPerfectSquare(root->Left) + SumNodeHasTwoChildPerfectSquare(root->Right);
+	}
+	else {
+		return 0 + SumNodeHasTwoChildPerfectSquare(root->Left) + SumNodeHasTwoChildPerfectSquare(root->Right);
+	}
+}
+//kiem tra co phai cay nhi phan tim kiem hay khong
+bool CheckBinarySearchTree(TreeNode* root) {
+	if (root == NULL) return false;
+	if (root->data<root->Right->data && root->data>root->Left->data) return true;
+	else return false;
+	CheckBinarySearchTree(root->Left);
+	CheckBinarySearchTree(root->Right);
+}
+//kiem tra cay co can bang hay khong
+bool CheckBalance(TreeNode* root) {
+	if (root == NULL) return true;
+	if (abs(HeightTree(root->Left) - HeightTree(root->Right)) == 1 || abs(HeightTree(root->Left) - HeightTree(root->Right)) == 0 && CheckBalance(root->Left) && CheckBalance(root->Right)) {
+		return true;
+	}
+	else return false;
+	CheckBalance(root->Left);
+	CheckBalance(root->Right);
+}
+//kiem tra cay co can bang hoan toan hay khong
+bool CheckPerfectBalance(TreeNode* root) {
+	if (root == NULL) return true;
+	if (abs(HeightTree(root->Left) - HeightTree(root->Right)) == 0 && CheckPerfectBalance(root->Left) && CheckPerfectBalance(root->Right)) {
+		return true;
+	}
+	else return false;
+	CheckBalance(root->Left);
+	CheckBalance(root->Right);
+}
+
 //++++++++++++++PHAN SO++++++++++++++++++++++
 //dem phan so >1
 int CountFractionGreaterthan1(TreeNodeFrct* root) {

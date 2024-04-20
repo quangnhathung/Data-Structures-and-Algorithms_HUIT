@@ -54,6 +54,30 @@ int SumPrimeNum(TreeNode* root);
 //tong so chinh phuong
 bool CheckPerfectSquare(int n);
 int SumPerfectSquare(TreeNode* root);
+//liet ke so hoan thien
+void ListedPerfectNum(TreeNode* root);
+//liet ke so chan
+void ListedEvennum(TreeNode* root);
+//dem nut la chan
+int CountLeafeven(TreeNode* root);
+//dem nut co 1 con va la so nguyen to
+int CountNodeHasOneChildPrime(TreeNode* root);
+//dem nut co 2 con la so hoan thien
+int CountNodeHasTwoChildPerfectSquare(TreeNode* root);
+//tong so le
+int SumOddNum(TreeNode* root);
+//tong nut gia tri le khong phair la la
+int SumOddNumNotLeaf(TreeNode* root);
+//tong nut co 1 con va la so nguyen to
+int SumNodeHasOneChildPrime(TreeNode* root);
+//tong nut co 2 con la so chinh phuonh
+int SumNodeHasTwoChildPerfectSquare(TreeNode* root);
+//kiem tra co phai cay nhi phan tim kiem hay khong
+bool CheckBinarySearchTree(TreeNode* root);
+//kiem tra cay co can bang hay khong
+bool CheckBalance(TreeNode* root);
+//kiem tra cay co can bang hoan toan hay khong
+bool CheckPerfectBalance(TreeNode* root);
 
 
 //**************FRACTION*****************
