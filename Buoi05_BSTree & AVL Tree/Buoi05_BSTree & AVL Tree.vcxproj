@@ -128,6 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="asciinode.cpp" />
+    <ClCompile Include="AVLTree.cpp" />
+    <ClCompile Include="AVLTree01.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="AVLTree02.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="AVLTreeFraction.cpp" />
     <ClCompile Include="BinarySearchTree.cpp" />
     <ClCompile Include="BinarySearchTreeWithFraction.cpp" />
     <ClCompile Include="CalculationTree.cpp" />
@@ -149,6 +157,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ASCIInode.h" />
+    <ClInclude Include="AVLTree.h" />
+    <ClInclude Include="AVLtreeFrct.h" />
     <ClInclude Include="BinarySearchTreeWithFraction.h" />
     <ClInclude Include="CalculateTree.h" />
     <ClInclude Include="DeleteTree.h" />

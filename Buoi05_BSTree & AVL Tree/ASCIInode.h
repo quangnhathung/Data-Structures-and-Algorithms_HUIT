@@ -4,9 +4,10 @@
 #include<string>
 #include <Windows.h>
 using namespace std;
-
+#include "AVLtreeFrct.h"
 #include "BinarySearchTree.h"
 #include "BinarySearchTreeWithFraction.h"
+#include "AVLTree.h"
 //===============================================================================
 struct asciinode
 {
@@ -30,9 +31,13 @@ int MAX(int X, int Y);
 //===============================================================================
 asciinode* build_ascii_tree_recursive(TreeNode* t);
 asciinode* build_ascii_tree_recursiveFrct(TreeNodeFrct* t);
+asciinode* build_ascii_tree_recursiveAVL(AVLNode* t);
+asciinode* build_ascii_tree_recursiveFrctAVL(AvlNodeFrct* t);
 //Copy the tree into the ascii node structre
 asciinode* build_ascii_tree(TreeNode* t);
 asciinode* build_ascii_treeFrct(TreeNodeFrct* t);
+asciinode* build_ascii_treeAVL(AVLNode* t);
+asciinode* build_ascii_treeFrctAVL(AvlNodeFrct* t);
 //Free all the nodes of the given tree
 void deleteAscii(asciinode* root);
 
@@ -55,3 +60,5 @@ void print_level(asciinode* node, int x, int level);
 //prints ascii tree for given Tree structure
 void print_ascii_tree(TreeNode* t);
 void print_ascii_treeFrct(TreeNodeFrct* t);
+void print_ascii_treeAVL(AVLNode* t);
+void print_ascii_treeFrctAVL(AvlNodeFrct* t);

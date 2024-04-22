@@ -72,6 +72,59 @@ asciinode* build_ascii_tree_recursiveFrct(TreeNodeFrct* t)
     node->lablen = strlen(node->label);
     return node;
 }
+
+asciinode* build_ascii_tree_recursiveAVL(AVLNode* t)
+{
+    asciinode* node;
+
+    if (t == NULL) return NULL;
+
+    node = new asciinode;
+    node->left = build_ascii_tree_recursiveAVL(t->Left);
+    node->right = build_ascii_tree_recursiveAVL(t->Right);
+
+    if (node->left != NULL)
+    {
+        node->left->parent_dir = -1;
+    }
+
+    if (node->right != NULL)
+    {
+        node->right->parent_dir = 1;
+    }
+
+    sprintf_s(node->label, "%d", t->Data);
+    node->lablen = strlen(node->label);
+    return node;
+}
+asciinode* build_ascii_tree_recursiveFrctAVL(AvlNodeFrct* t)
+{
+    asciinode* node;
+
+    if (t == NULL) return NULL;
+
+    node = new asciinode;
+    node->left = build_ascii_tree_recursiveFrctAVL(t->Left);
+    node->right = build_ascii_tree_recursiveFrctAVL(t->Right);
+
+    if (node->left != NULL)
+    {
+        node->left->parent_dir = -1;
+    }
+
+    if (node->right != NULL)
+    {
+        node->right->parent_dir = 1;
+    }
+    if (t->data.Mau == 1) {
+        sprintf_s(node->label, "%d", t->data.Tu);
+    }
+    else {
+        sprintf_s(node->label, "%d/%d", t->data.Tu, t->data.Mau);
+    }
+    node->lablen = strlen(node->label);
+    return node;
+}
 //===============================================================================
 //Copy the tree into the ascii node structre
 asciinode* build_ascii_tree(TreeNode* t)
@@ -82,11 +135,28 @@ asciinode* build_ascii_tree(TreeNode* t)
     node->parent_dir = 0;
     return node;
 }
+asciinode* build_ascii_treeAVL(AVLNode* t)
+{
+    asciinode* node;
+    if (t == NULL) return NULL;
+    node = build_ascii_tree_recursiveAVL(t);
+    node->parent_dir = 0;
+    return node;
+
+}
 asciinode* build_ascii_treeFrct(TreeNodeFrct* t)
 {
     asciinode* node;
     if (t == NULL) return NULL;
     node = build_ascii_tree_recursiveFrct(t);
+    node->parent_dir = 0;
+    return node;
+}
+asciinode* build_ascii_treeFrctAVL(AvlNodeFrct* t)
+{
+    asciinode* node;
+    if (t == NULL) return NULL;
+    node = build_ascii_tree_recursiveFrctAVL(t);
     node->parent_dir = 0;
     return node;
 }
@@ -302,12 +372,72 @@ void print_ascii_tree(TreeNode* t)
     deleteAscii(proot);
 	set_Color(0, 15);		//Black=0 - Bright White=15
 }
+void print_ascii_treeAVL(AVLNode* t)
+{
+    asciinode* proot;
+    int xmin, i;
+    if (t == NULL) return;
+    proot = build_ascii_treeAVL(t);
+    compute_edge_lengths(proot);
+    for (i = 0; i < proot->height && i < MAX_HEIGHT; i++)
+    {
+        lprofile[i] = INFINITY;
+    }
+    compute_lprofile(proot, 0, 0);
+    xmin = 0;
+    for (i = 0; i < proot->height && i < MAX_HEIGHT; i++)
+    {
+        xmin = MIN(xmin, lprofile[i]);
+    }
+    for (i = 0; i < proot->height; i++)
+    {
+        print_next = 0;
+        print_level(proot, -xmin, i);
+        printf_s("\n");
+    }
+    if (proot->height >= MAX_HEIGHT)
+    {
+        printf_s("(This tree is taller than %d, and may be drawn incorrectly.)\n", MAX_HEIGHT);
+    }
+    deleteAscii(proot);
+    set_Color(0, 15);		//Black=0 - Bright White=15
+}
 void print_ascii_treeFrct(TreeNodeFrct* t)
 {
     asciinode* proot;
     int xmin, i;
     if (t == NULL) return;
     proot = build_ascii_treeFrct(t);
+    compute_edge_lengths(proot);
+    for (i = 0; i < proot->height && i < MAX_HEIGHT; i++)
+    {
+        lprofile[i] = INFINITY;
+    }
+    compute_lprofile(proot, 0, 0);
+    xmin = 0;
+    for (i = 0; i < proot->height && i < MAX_HEIGHT; i++)
+    {
+        xmin = MIN(xmin, lprofile[i]);
+    }
+    for (i = 0; i < proot->height; i++)
+    {
+        print_next = 0;
+        print_level(proot, -xmin, i);
+        printf_s("\n");
+    }
+    if (proot->height >= MAX_HEIGHT)
+    {
+        printf_s("(This tree is taller than %d, and may be drawn incorrectly.)\n", MAX_HEIGHT);
+    }
+    deleteAscii(proot);
+    set_Color(0, 15);		//Black=0 - Bright White=15
+}
+void print_ascii_treeFrctAVL(AvlNodeFrct* t)
+{
+    asciinode* proot;
+    int xmin, i;
+    if (t == NULL) return;
+    proot = build_ascii_treeFrctAVL(t);
     compute_edge_lengths(proot);
     for (i = 0; i < proot->height && i < MAX_HEIGHT; i++)
     {
