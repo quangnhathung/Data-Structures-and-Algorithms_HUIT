@@ -1,8 +1,12 @@
+//Github:https://github.com/quangnhathung/Data-Structures-and-Algorithms_HUIT
 #include"AVLtreeFrct.h"
 #include "ASCIInode.h"
 #include<cstdlib>
 #include"Input.h"
 using namespace std;
+//Do thoi gian hoc ly thuyet ngan,nen thay chi day thuaatj toan
+// vi vay em khong hieu code trong sach(phan BalFactor) nen em danh hoc tu been ngoai
+// em xin loi vi dieu nay a!
 
 void menu() {
 	cout << "**************************************************" << endl;

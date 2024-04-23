@@ -1,3 +1,4 @@
+//Github:https://github.com/quangnhathung/Data-Structures-and-Algorithms_HUIT
 #include "AVLTree.h"
 using namespace std;
 //Do thoi gian hoc ly thuyet ngan,nen thay chi day thuaatj toan
@@ -151,11 +152,11 @@ void Dlt_AvlNode(AVLNode*& root, int x) {
 		return;
 	}
 	//th lech phai
-	if (valbalance < -1 && ValBalance(root->Right) >= 0) {//rr
+	if (valbalance < -1 && ValBalance(root->Right) <= 0) {//rr
 		RotateLeft(root);
 		return;
 	}
-	if (valbalance < -1 && ValBalance(root->Right) < 0) {//rl
+	if (valbalance < -1 && ValBalance(root->Right) > 0) {//rl
 		RotateRight(root->Right);
 		RotateLeft(root);
 		return;

@@ -8,6 +8,8 @@ using namespace std;
 #include "BinarySearchTree.h"
 #include "BinarySearchTreeWithFraction.h"
 #include "AVLTree.h"
+#include"Books.h"
+#include"Dictionary.h"
 //===============================================================================
 struct asciinode
 {
@@ -19,7 +21,7 @@ struct asciinode
     int lablen;
 
     int parent_dir; //-1=I am left, 0=I am root, 1=right   
-    char label[11];//max supported unit32 in dec, 10 digits max   
+    char label[35];//max supported unit32 in dec, 10 digits max   
 };
 //===============================================================================
 /* Khai báo thuộc tính color */
@@ -30,11 +32,15 @@ int MIN(int X, int Y);
 int MAX(int X, int Y);
 //===============================================================================
 asciinode* build_ascii_tree_recursive(TreeNode* t);
+asciinode* build_ascii_tree_recursiveBooks(AVLBOOK* t);
+asciinode* build_ascii_tree_recursiveDct(AVLDictNode* t);
 asciinode* build_ascii_tree_recursiveFrct(TreeNodeFrct* t);
 asciinode* build_ascii_tree_recursiveAVL(AVLNode* t);
 asciinode* build_ascii_tree_recursiveFrctAVL(AvlNodeFrct* t);
 //Copy the tree into the ascii node structre
 asciinode* build_ascii_tree(TreeNode* t);
+asciinode* build_ascii_treeBooks(AVLBOOK* t);
+asciinode* build_ascii_treeDct(AVLDictNode* t);
 asciinode* build_ascii_treeFrct(TreeNodeFrct* t);
 asciinode* build_ascii_treeAVL(AVLNode* t);
 asciinode* build_ascii_treeFrctAVL(AvlNodeFrct* t);
@@ -59,6 +65,8 @@ void print_level(asciinode* node, int x, int level);
 
 //prints ascii tree for given Tree structure
 void print_ascii_tree(TreeNode* t);
+void print_ascii_treeBooks(AVLBOOK* t);
+void print_ascii_treeDct(AVLDictNode* t);
 void print_ascii_treeFrct(TreeNodeFrct* t);
 void print_ascii_treeAVL(AVLNode* t);
 void print_ascii_treeFrctAVL(AvlNodeFrct* t);

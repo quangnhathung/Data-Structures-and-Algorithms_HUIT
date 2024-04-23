@@ -1,7 +1,12 @@
+//Github:https://github.com/quangnhathung/Data-Structures-and-Algorithms_HUIT
 #include"AVLTree.h"
 #include "ASCIInode.h"
 #include<cstdlib>
 using namespace std;
+
+//Do thoi gian hoc ly thuyet ngan,nen thay chi day thuaatj toan
+// vi vay em khong hieu code trong sach(phan BalFactor) nen em danh hoc tu been ngoai
+// em xin loi vi dieu nay a!
 
 void Menu() {
 	cout << "*************************" << endl;
@@ -67,7 +72,7 @@ int main() {
 			print_ascii_treeAVL(tr.Root);
 			cout << endl;
 			cout << "Nhap gia tri cua nut can xoa: "; cin >> x;
-			Add_AvlTree(tr.Root, CreateAVLNode(x));
+			Dlt_AvlNode(tr.Root, x);
 			cout << endl;
 			print_ascii_treeAVL(tr.Root);
 			cout << endl;

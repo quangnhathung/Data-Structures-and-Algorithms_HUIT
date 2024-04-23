@@ -1,0 +1,34 @@
+social - xa hoi
+economic - kinh te
+political - chính tri
+religious - ton giao
+atheist - vo than
+agnostic - tap doan
+couch - ghe sofa
+armchair - ghe dau
+desk - ban lam viec
+shelf - ke
+cabinet - tu
+drawer - ngan keo
+closet - tu quan ao
+kitchen - nha bep
+living room - phong khach
+dining room - phonng an
+bedroom - phong ngu
+bathroom - phong tam
+toilet - nha ve sinh
+sink - bon rua
+bathtub - bon tam
+shower - voi sen
+mirror - guong
+refrigerator - tu lanh
+freezer - tu đa
+oven - lo nuong
+stove - bep l
+microwave - lo vi song
+dishwasher - may rua chen
+washing machine - may giat
+dryer - may say
+television - ti vi
+radio - radio
+computer - may tinh

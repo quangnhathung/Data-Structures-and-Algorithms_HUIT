@@ -1,5 +1,9 @@
+//Github:https://github.com/quangnhathung/Data-Structures-and-Algorithms_HUIT
 #include"AVLtreeFrct.h"
 using namespace std;
+//Do thoi gian hoc ly thuyet ngan,nen thay chi day thuaatj toan
+// vi vay em khong hieu code trong sach(phan BalFactor) nen em danh hoc tu been ngoai
+// em xin loi vi dieu nay a!
 
 //khoi tao
 void InitAVLTreeFrct(AvlTreeFrct& tr) {
@@ -140,11 +144,11 @@ void Dlt_AvlNodeFrct(AvlNodeFrct*& root, Fraction x) {
 		RotateRightFrct(root);
 		return;
 	}//lech pahi
-	if (valbalane < -1 && valbalence(root->Right) >= 0) {//rr
+	if (valbalane < -1 && valbalence(root->Right) <= 0) {//rr
 		RotateLeftFrct(root);
 		return;
 	}
-	if (valbalane < -1 && valbalence(root->Right) < 0) {//rl
+	if (valbalane < -1 && valbalence(root->Right) > 0) {//rl
 		RotateRightFrct(root->Right);
 		RotateLeftFrct(root);
 		return;

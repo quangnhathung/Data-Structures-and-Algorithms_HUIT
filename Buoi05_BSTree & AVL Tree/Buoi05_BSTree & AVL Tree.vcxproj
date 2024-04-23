@@ -135,11 +135,19 @@
     <ClCompile Include="AVLTree02.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="AVLTree03,05.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="AVLTree04.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="AVLTreeFraction.cpp" />
     <ClCompile Include="BinarySearchTree.cpp" />
     <ClCompile Include="BinarySearchTreeWithFraction.cpp" />
+    <ClCompile Include="Books.cpp" />
     <ClCompile Include="CalculationTree.cpp" />
     <ClCompile Include="DeleteTree.cpp" />
+    <ClCompile Include="Dictionnary.cpp" />
     <ClCompile Include="Fraction.cpp" />
     <ClCompile Include="Input.cpp" />
     <ClCompile Include="Tree01.cpp">
@@ -160,8 +168,10 @@
     <ClInclude Include="AVLTree.h" />
     <ClInclude Include="AVLtreeFrct.h" />
     <ClInclude Include="BinarySearchTreeWithFraction.h" />
+    <ClInclude Include="Books.h" />
     <ClInclude Include="CalculateTree.h" />
     <ClInclude Include="DeleteTree.h" />
+    <ClInclude Include="Dictionary.h" />
     <ClInclude Include="Fraction.h" />
     <ClInclude Include="BinarySearchTree.h" />
     <ClInclude Include="Input.h" />
