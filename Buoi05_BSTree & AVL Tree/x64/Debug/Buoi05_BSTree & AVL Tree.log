@@ -1,0 +1,53 @@
+﻿  asciinode.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\AVLtreeFrct.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'asciinode.cpp')
+  
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(44,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(70,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(74,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(100,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(104,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(133,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(158,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(186,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(307,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(320,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(431,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(462,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(493,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(524,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(554,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\asciinode.cpp(584,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AVLTree.cpp
+  AVLTree04.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\AVLtreeFrct.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'AVLTree04.cpp')
+  
+  AVLTreeFraction.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\AVLtreeFrct.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'AVLTreeFraction.cpp')
+  
+  BinarySearchTree.cpp
+  BinarySearchTreeWithFraction.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\BinarySearchTreeWithFraction.cpp(19,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Books.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\Books.cpp(113,9): warning C4553: '==': result of expression not used; did you intend '='?
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\Books.cpp(118,9): warning C4553: '==': result of expression not used; did you intend '='?
+  CalculationTree.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\CalculationTree.cpp(273,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DeleteTree.cpp
+  Dictionnary.cpp
+  Fraction.cpp
+  Input.cpp
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\AVLtreeFrct.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Input.cpp')
+  
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\Input.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\Input.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\Input.cpp(139,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\Dictionnary.cpp(268,1): warning C4715: 'CompareStr': not all control paths return a value
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\BinarySearchTreeWithFraction.cpp(161,1): warning C4715: 'FindTreeNodeFrct': not all control paths return a value
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\BinarySearchTree.cpp(124,1): warning C4715: 'FindTreeNode': not all control paths return a value
+D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\Buoi05_BSTree & AVL Tree\AVLTree.cpp(195,1): warning C4715: 'FindAvlNode': not all control paths return a value
+  Buoi05_BSTree & AVL Tree.vcxproj -> D:\vs\CTDL&GT\THCTDLGT_ST4_QuangNhatHung\x64\Debug\Buoi05_BSTree & AVL Tree.exe
